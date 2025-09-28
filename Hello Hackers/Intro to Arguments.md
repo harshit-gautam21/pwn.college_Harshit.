@@ -11,7 +11,7 @@ hacker@hello~intro-to-arguments:~$ echo Hello Hackers!
 Hello Hackers!
 hacker@hello~intro-to-arguments:~$ hello hackers
 Success! Here is your flag:
-pwn.college{cPmMMQJ0iVmOvWCFDfllq0mAZls.QX4YjM1wCM0EzNzEzW}
+pwn.college{QZtqZ9BqxwyPE33oJNfLeGik4vK.QX4YjM1wSN4kjNzEzW}
 ```
 
 ## What I Learned 
