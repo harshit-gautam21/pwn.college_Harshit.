@@ -5,7 +5,7 @@ The challenge was to check the command history.
 **Flag:** `pwn.college{UGE0kVuQBb7sJJuER0ZxJFReRDR.0lNzEzNxwSN4kjNzEzW}`
 
 ```
-hacker@hello~command-history:~$ the flag is pwn.college{ElyrhFxJ0Z6FmIS0r-if2-yYBeu.0lNzEzNxwCM0EzNzEzW}^C
+hacker@hello~command-history:~$ the flag is pwn.college{UGE0kVuQBb7sJJuER0ZxJFReRDR.0lNzEzNxwSN4kjNzEzW}
 ```
 The flag was given after pressing the the `up arrow` key once.
 
